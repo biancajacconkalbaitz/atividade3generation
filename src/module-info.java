@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module atividade3generation {
-}
